@@ -4,3 +4,7 @@ To run frontend just do npm i and npm run dev
 **\*** BACKEND **\***
 first you have to change the env file and your credentials , check the .env for more information
 after setting up .env do npm i and npm run dev .
+
+
+Frontend Tech: React , Bootstrap, vite
+Backend Tech : Nodejs , Express , MySql , Sequlize
